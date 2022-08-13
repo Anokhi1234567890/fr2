@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient( rgb(0, 191, 255),yellow);
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family: Insparation;
+}
+
+#camera{
+    border: 2px dashed navy;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
